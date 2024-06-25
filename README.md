@@ -111,10 +111,3 @@ The training loop alternates between training the generator and the discriminato
 
 Contributions are welcome! Please submit a pull request or open an issue for any changes or suggestions.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Replace `yourusername` with your actual GitHub username in the repository URL. This README file should provide a clear overview and guide users through setting up and running your GAN project.
