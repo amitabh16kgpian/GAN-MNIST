@@ -22,7 +22,7 @@ This project demonstrates the use of a GAN to generate realistic images of handw
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/GAN-MNIST.git
+   git clone https://github.com/amitabh16kgpian/GAN-MNIST.git
    cd GAN-MNIST
    ```
 
